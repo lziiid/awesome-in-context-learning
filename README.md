@@ -37,11 +37,27 @@ A curated list of in-context-learning, including classic and up-to-date papers. 
 - **Meta Learning to Bridge Vision and Language Models for Multimodal Few-Shot Learning** 
 (2023.02.28) [[pdf]](https://arxiv.org/abs/2302.14794) <br> 
 
+- **Transformers as Algorithms: Generalization and Stability in In-context Learning**
+(2023.01.17)[[pdf]](https://arxiv.org/abs/2301.07067) <br>
+
+-**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**
+(2022.12.20)[[pdf]](https://arxiv.org/abs/2212.10559) <br>
+
+-**Transformers learn in-context by gradient descent**
+(2022.12.15)[[pdf]](https://arxiv.org/abs/2212.07677) <br>
+
+-**What learning algorithm is in-context learning? Investigations with linear models**
+(2022.11.28) [[pdf]](https://arxiv.org/abs/2211.15661) <br>
+
 - **In-context Learning and Induction Heads** 
 (2022.09.24) [[pdf]](https://arxiv.org/abs/2209.11895) <br> 
 
+- **Data Distributional Properties Drive Emergent In-Context Learning in Transformers** 
+(2022.04.22) [[pdf]](https://arxiv.org/abs/2205.05055) <br> 
+
 - **An Explanation of In-context Learning as Implicit Bayesian Inference** 
 (2021.11.03) [[pdf]](https://arxiv.org/abs/2111.02080)  ![](https://img.shields.io/badge/-classic-red) <br> 
+
 
 
    
