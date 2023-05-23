@@ -37,6 +37,9 @@ A curated list of in-context-learning, including classic and up-to-date papers. 
 - **Meta Learning to Bridge Vision and Language Models for Multimodal Few-Shot Learning** 
 (2023.02.28) [[pdf]](https://arxiv.org/abs/2302.14794) <br> 
 
+- **In-context Learning and Induction Heads** 
+(2022.09.24) [[pdf]](https://arxiv.org/abs/2209.11895) <br> 
+
 - **An Explanation of In-context Learning as Implicit Bayesian Inference** 
 (2021.11.03) [[pdf]](https://arxiv.org/abs/2111.02080)  ![](https://img.shields.io/badge/-classic-red) <br> 
 
