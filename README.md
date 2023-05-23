@@ -40,13 +40,13 @@ A curated list of in-context-learning, including classic and up-to-date papers. 
 - **Transformers as Algorithms: Generalization and Stability in In-context Learning**
 (2023.01.17)[[pdf]](https://arxiv.org/abs/2301.07067) <br>
 
--**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**
+- **Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**
 (2022.12.20)[[pdf]](https://arxiv.org/abs/2212.10559) <br>
 
--**Transformers learn in-context by gradient descent**
+- **Transformers learn in-context by gradient descent**
 (2022.12.15)[[pdf]](https://arxiv.org/abs/2212.07677) <br>
 
--**What learning algorithm is in-context learning? Investigations with linear models**
+- **What learning algorithm is in-context learning? Investigations with linear models**
 (2022.11.28) [[pdf]](https://arxiv.org/abs/2211.15661) <br>
 
 - **In-context Learning and Induction Heads** 
