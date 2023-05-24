@@ -44,6 +44,9 @@ A curated list of in-context-learning, including classic and up-to-date papers. 
 - **Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings**
 (2023.05.03) [[pdf]](https://arxiv.org/abs/2305.02317)
 
+- **Chain of Thought Prompt Tuning in Vision Language Models**
+(2023.04.16) [[pdf]](https://arxiv.org/abs/2304.07919)
+
 
 ### Theoretical analysis
 - **What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning** 
