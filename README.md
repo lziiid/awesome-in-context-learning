@@ -81,10 +81,10 @@ A curated list of in-context-learning, including classic and up-to-date papers. 
 
 ### Chain of thoughts
 
--**Active Prompting with Chain-of-Thought for Large Language Models**
+- **Active Prompting with Chain-of-Thought for Large Language Models**
 (2023.02.23) [[pdf]](https://arxiv.org/abs/2302.12246)
 
--**Faithful Chain-of-Thought Reasoning**
+- **Faithful Chain-of-Thought Reasoning**
 (2023.01.31) [[pdf]](https://arxiv.org/abs/2301.13379)
 
 - **Automatic Chain of Thought Prompting in Large Language Models**
