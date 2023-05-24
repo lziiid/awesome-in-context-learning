@@ -114,5 +114,5 @@ A curated list of in-context-learning, including classic and up-to-date papers. 
 (2022.12.19) [[pdf]](https://arxiv.org/abs/2212.09561)
 
 ## Contribution
-If you think there are still papers worth reading, other useful resources, feel free to contribute!
+If you think there are still papers worth reading, other useful resources, or any other things, feel free to contribute!
 
