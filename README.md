@@ -31,6 +31,9 @@ A curated list of in-context-learning, including classic and up-to-date papers. 
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**
 (2023.03.08) [[pdf]](https://arxiv.org/abs/2303.04671) <br>
 
+- **What Makes Good Examples for Visual In-Context Learning?**
+(2023.01.31) [[pdf]](https://arxiv.org/abs/2301.13670)
+
 - **Multimodal Chain-of-Thought Reasoning in Language Models**
 (2023.01.17) [[pdf]](https://arxiv.org/abs/2302.00923) <br>
 
